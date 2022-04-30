@@ -1,0 +1,17 @@
+{
+  "name": "reduxtodo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open --port 3005",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "parcel-bundler": "^1.12.5",
+    "redux": "^4.2.0"
+  }
+}
